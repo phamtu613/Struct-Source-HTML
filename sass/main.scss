@@ -6,6 +6,11 @@
 @import "./base/typography";
 @import "./base/utilities";
 
+@import "./components/title_main";
+@import "./components/pagination";
+@import "./components/create-time";
+@import "./components/card-post";
+@import "./components/card-post-horizontal";
 @import "./components/buttons";
 @import "./components/card";
 @import "./components/form";
@@ -14,4 +19,6 @@
 @import "./layout/footer";
 @import "./layout/navigation";
 
-@import "./pages/home";
+@import "./pages/projects";
+@import "./pages/project-detail";
+@import "./pages/news";
